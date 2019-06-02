@@ -1,0 +1,22 @@
+{
+  "name": "honda-orthia.ru",
+  "version": "1.0.0",
+  "description": "---\r description: 1996 — 2002\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stsocrat/honda-orthia.ru.git"
+  },
+  "author": "Stepan",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/stsocrat/honda-orthia.ru/issues"
+  },
+  "homepage": "https://github.com/stsocrat/honda-orthia.ru#readme"
+}
